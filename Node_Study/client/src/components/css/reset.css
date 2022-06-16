@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+*{margin: 0;padding: 0;border: 0;text-decoration: none;list-style: none;color: inherit;}
+html, body{color: #111;font-size: 10px;font-family: 'Noto Sans KR', sans-serif !important;letter-spacing: -1px;}
+.inner{width: 95%;margin: 0 auto;height: 100%;}
